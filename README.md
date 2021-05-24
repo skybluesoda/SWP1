@@ -1,2 +1,3 @@
-Velch 20213006
+Velch
+20213006
 Kookmin Univ. SW
